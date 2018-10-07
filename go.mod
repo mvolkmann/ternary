@@ -1,1 +1,1 @@
-module ternary
+module github.com/mvolkmann/ternary
